@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(stacked_starter_template LANGUAGES CXX)
+project(simple_pos LANGUAGES CXX)
 
-set(BINARY_NAME "stacked_starter_template")
+set(BINARY_NAME "simple_pos")
 
 cmake_policy(SET CMP0063 NEW)
 

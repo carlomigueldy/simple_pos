@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:stacked_services/stacked_services.dart';
-import 'package:stacked_starter_template/app/app.locator.dart';
-import 'package:stacked_starter_template/app/app.router.dart';
-import 'package:stacked_starter_template/styles/themes.dart';
+import 'package:simple_pos/app/app.locator.dart';
+import 'package:simple_pos/app/app.router.dart';
+import 'package:simple_pos/styles/themes.dart';
 import 'package:stacked_themes/stacked_themes.dart';
 
 Future<void> main() async {
